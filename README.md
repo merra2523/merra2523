@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merra2523
+- 👋 Hi, I am Amira Abdelrhman.
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
